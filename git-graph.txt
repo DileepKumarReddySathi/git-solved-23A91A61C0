@@ -1,0 +1,25 @@
+* 739712a (HEAD -> main, origin/main) docs: Add changelog
+* e4b2597 Update GIT_JOURNEY.md
+* 89f7a04 docs: add GIT_JOURNEY.md summarizing Git learning
+* 9a5cd59 docs: Update README
+* 453335b Update database-config.json
+| * 3eb223d (origin/feature/another-feature) feat: Add test feature
+| * e442e95 (tag: v1.1.0, tag: v1.0.0, feature/another-feature) docs: Update README
+|/  
+* 8e06196 feat: Add new feature
+* d7b5b03 docs: Add FAQ section
+| * 396e860 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+| * 81e14c0 commit5
+|/  
+*   fe3c35c commit phase 3
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | 9237429 fix: update database configuration before merging conflict-simulator
+* |   b87cce5 2nd commit
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit

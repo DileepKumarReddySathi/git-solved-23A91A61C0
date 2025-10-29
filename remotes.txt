@@ -1,0 +1,4 @@
+instructor	https://github.com/Partnrnetwork/git-mastery-challenge-template.git (fetch)
+instructor	https://github.com/Partnrnetwork/git-mastery-challenge-template.git (push)
+origin	https://github.com/DileepKumarReddySathi/git-solved-23A91A61C0.git (fetch)
+origin	https://github.com/DileepKumarReddySathi/git-solved-23A91A61C0.git (push)
